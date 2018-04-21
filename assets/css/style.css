@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://theunappreciatedblog.files.wordpress.com/2016/09/johnny-mnemonic-blu-raycompre.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 110%;
+}
+
+#header {
+    background: black;
+    color: purple;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 40px;
+    border: 2px solid black;
+}
+
+#word-blanks {
+    /* background: white; */
+    padding: 40px;
+}
+
+#guessesRemaining {
+    /* background: white; */
+    padding: 20px;
+}
+
+#lettersMissed {
+    /* background: white; */
+    padding: 20px;
+}
+
+#wins {
+    padding: 20px;
+}
